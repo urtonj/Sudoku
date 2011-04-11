@@ -20,10 +20,11 @@
         	android:label="@string/about_title"
         	android:theme="@android:style/Theme.Dialog">
         </activity>
-        <activity android:name=".BassBoost$Settings" />
-        
-
-        
+        <activity android:name=".MoreAbout"
+        	android:label="@string/about_title"
+        	android:theme="@android:style/Theme.Dialog">
+        </activity>
+                
     </application>
 
 

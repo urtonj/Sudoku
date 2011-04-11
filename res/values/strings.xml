@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="app_name">Sudoku</string> 
-	<string name="main_title">Android Sudoku</string> 
+	<string name="main_title"><u>Android Sudoku</u></string> 
 	<string name="continue_label">Continue</string> 
 	<string name="new_game_label">New Game</string> 
 	<string name="about_label">About</string> 
@@ -19,4 +19,7 @@
 	<string name="easy_label">Easy</string> 
 	<string name="medium_label">Medium</string> 
 	<string name="hard_label">Hard</string>
+	<string name="more_label">Even more about!</string>
+	<string name="more_about_text">\ This is more about Sudoku than you ever wanted to know.</string>
+	
 </resources>
